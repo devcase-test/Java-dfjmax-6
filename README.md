@@ -1,1 +1,1 @@
-# Java-dfjmax-6
+Dummy template
